@@ -1,5 +1,5 @@
 [![Discord](https://img.shields.io/discord/1115290241180381197?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/KNN8nPeW)
-![Technologies](https://img.shields.io/badge/Technology-HTML5_|_PHP-9d3de0.svg)
+![Technologies](https://img.shields.io/badge/Technology-HTML5_•_PHP_•_MariaDB-9d3de0.svg)
 
 ## Hi there 👋
 
